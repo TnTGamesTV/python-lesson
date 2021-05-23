@@ -1,0 +1,4 @@
+1,Max Mustermann,1000.0
+2,Erika Mustermann,2024.0
+3,Felix Mustermann,34.0
+4,Finn Tegeler,1000.5
